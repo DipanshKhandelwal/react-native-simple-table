@@ -21,3 +21,6 @@
 ### iOS
 - `cd ios && pod install`
 - `yarn run iOS`
+
+## Demo
+https://github.com/DipanshKhandelwal/react-native-simple-table/assets/24923974/ff617db5-e3f8-480f-b864-b484b3642bb5
