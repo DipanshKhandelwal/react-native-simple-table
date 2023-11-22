@@ -1,0 +1,16 @@
+[
+  {"title": "ACT Symbol"},
+  {
+    "title": "Company Name",
+    "styles": {
+      "width": 150
+    }
+  },
+  {"title": "Security Name"},
+  {"title": "Exchange"},
+  {"title": "CQS Symbol"},
+  {"title": "ETF"},
+  {"title": "Round Lot Size"},
+  {"title": "Test Issue"},
+  {"title": "NASDAQ Symbol"}
+]
